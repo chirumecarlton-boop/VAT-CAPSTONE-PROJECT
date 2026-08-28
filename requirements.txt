@@ -1,0 +1,12 @@
+# ZimVAT - Zimbabwe VAT Return Automation (ZIMRA VAT 10)
+#
+# This project runs on the Python standard library only.
+# No third-party packages are required.
+#
+# To run:
+#   python AIPRO.PY --demo
+#
+# Requirements:
+#   - Python 3.8 or newer (python.org)
+#   - Tkinter (bundled with the Windows python.org installer;
+#     on Linux: sudo apt install python3-tk)
