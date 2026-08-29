@@ -1,6 +1,6 @@
 streamlit>=1.28.0
 pandas>=2.0.0
-numpy>1.24.0
+numpy>=1.24.0
 # ZimVAT - Zimbabwe VAT Return Automation (ZIMRA VAT 10)
 #
 # This project runs on the Python standard library only.
